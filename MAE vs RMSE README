@@ -1,0 +1,1 @@
+See the PDF MAE vs RMSE for a proof (via the Cauchy-Schwarz Inequality) that the Mean Absolute Error (for a set of predicted and observed values of a response variable) is bounded by the Root Mean Square Error. 
